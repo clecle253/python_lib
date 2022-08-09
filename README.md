@@ -1,2 +1,2 @@
 # python_lib
-my usefull python nipet and script
+my usefull python snipet and script
